@@ -23,7 +23,7 @@ This repository showcases my AWS projects in **Infrastructure as Code, CI/CD pip
 ---
 
 ## 📜 Certifications
-- AWS Certified Solutions Architect – Associate (https://www.credly.com/badges/5dd2c42f-f0d3-4d05-8a7c-4158a9af91f9/linked_in_profile)
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/5dd2c42f-f0d3-4d05-8a7c-4158a9af91f9/linked_in_profile)
 
 ---
 
