@@ -29,5 +29,5 @@ This repository showcases my AWS projects in **Infrastructure as Code, CI/CD pip
 
 ## 📬 Contact
 📧 Email: ridwanherwandi@email.com  
-💼 LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/ridwanmuhamad/)  
-💻 GitHub: [github.com/yourusername](https://github.com/waynuts)  
+💼 LinkedIn: [linkedin.com/in/ridwanmuhamad](https://www.linkedin.com/in/ridwanmuhamad/)  
+💻 GitHub: [github.com/waynuts](https://github.com/waynuts)  
