@@ -10,7 +10,7 @@ crash.*.log
 .terraform/
 .terraform.lock.hcl
 
-# Local override files (jangan masuk repo)
+# Local override files
 override.tf
 override.tf.json
 *_override.tf
